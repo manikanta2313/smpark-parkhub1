@@ -1,0 +1,68 @@
+name: smartparkin1
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+
+#-----------------Packages---------------#
+dependencies:
+  flutter:
+    sdk: flutter
+
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
+  flutter_native_splash: ^2.3.9
+  provider: ^6.1.1
+  image_picker: ^1.0.7
+  connectivity: ^3.0.6
+  google_maps_flutter: ^2.5.0
+  geolocator: ^10.1.0
+  flutter_google_places: ^0.3.0
+  google_maps_webservice: ^0.0.3
+  google_api_headers: ^1.6.0
+
+  ionicons: ^0.2.2  
+  intl: ^0.19.0
+  sliver_tools: ^0.2.12
+  another_dashed_container: ^1.0.0
+  material_color_utilities: ^0.5.0
+  chewie: ^1.7.4
+  video_player: ^2.8.2
+  youtube_player_flutter: ^8.1.2
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+  firebase_storage: ^11.6.0
+  firebase_database: ^10.4.0
+  firebase_auth: ^4.16.0
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  fluttertoast: ^8.2.4
+  upi_india: ^3.0.1
+  logger: ^2.0.2+1
+
+
+#-----------------Packages End---------------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/

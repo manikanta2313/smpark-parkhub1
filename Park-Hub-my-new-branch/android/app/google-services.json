@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298670393818",
+    "project_id": "smartparking-79613",
+    "storage_bucket": "smartparking-79613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298670393818:android:5854d75440a773d4c318e3",
+        "android_client_info": {
+          "package_name": "com.KMEC.smartparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSf3WMZrelNYH3gXrUg1XPmENrsAafFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
